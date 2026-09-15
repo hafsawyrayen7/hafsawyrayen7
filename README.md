@@ -1,15 +1,48 @@
 # Hey there! 👋
 
-My name is Rayen Hafsawy, and I'm on an exciting journey in the world of technology. Here's a little bit about me:
+I'm **Rayen Hafsawy**, an **Information Systems & New Technologies student** with a strong focus on **cybersecurity**.
 
-🚀 I'm a 21-year-old web/mobile developer with a passion for building sleek, user-friendly applications.
+🔐 My main interests include **ethical hacking, penetration testing, web security, network security, and cryptography**.
 
-🔒 While I love coding, I'm also drawn to the fascinating world of cybersecurity. My ultimate goal is to become a cybersecurity forensics analyst and contribute to making the digital world a safer place.
+💻 I also have a background in **web and mobile development**, which gives me a broader understanding of how applications and systems are built — and how they can be secured.
 
-💡 I believe in the power of continuous learning and growth — there's always something new to discover in the tech realm!
+🎓 Currently pursuing a **Master's degree in Information Systems & New Technologies (SINT) at FSEG Sfax**, after completing my Bachelor's degree in **Information Technology at ISET Sidi Bouzid (2021–2024)**.
 
-Feel free to reach out if you have any questions about me or my experiences. I'm always open to connect and share knowledge.
+🧪 I'm passionate about hands-on learning and practical cybersecurity. I've completed **215+ TryHackMe labs** and reached the **Global Top 1%**.
 
-Let's code securely and make amazing things happen! 🌟
+🔭 Currently learning **cybersecurity, ethical hacking, network security, and AI**, while building toward future work in **security research**.
 
-📫 How to reach me <rayenhafsawy@gmail.com>
+---
+
+## 🛡️ Cybersecurity
+
+`Kali Linux` · `Nmap` · `Burp Suite` · `Metasploit` · `Wireshark`
+
+**Focus:**
+Ethical Hacking · Penetration Testing · Web Security · Network Security · Cryptography
+
+## 💻 Programming
+
+`Python` · `Java` · `C/C++` · `C#` · `PHP` · `JavaScript`
+
+## 🌐 Web Development
+
+`HTML` · `CSS` · `JavaScript` · `React` · `Angular` · `Node.js`
+
+---
+
+## 🤝 Connect With Me
+
+📧 **Email:** [rayenhafsawy@gmail.com](mailto:rayenhafsawy@gmail.com)
+
+💼 **LinkedIn:** [Rayen Hafsawy](https://tn.linkedin.com/in/rayen-hafsawy-405544243)
+
+🚩 **TryHackMe:** [RayenHafsawy](https://tryhackme.com/p/RayenHafsawy)
+
+📝 **Medium:** [@rayenhafsawy](https://medium.com/@rayenhafsawy)
+
+🌐 **Portfolio:** Coming soon
+
+---
+
+> **Learn. Build. Break. Secure. 🔐**
